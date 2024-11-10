@@ -22,9 +22,3 @@ Matplotlib & Seaborn: Static data visualizations (line plots, scatter plots, his
 Plotly: Interactive visualizations (for better user experience).
 Jupyter Notebooks: For interactive data exploration and reporting.
 Google Colab: For cloud-based notebook execution (optional).
-#### Datasets
-This project uses heart rate data collected from various sources, including wearable devices like Fitbit, Apple Watch, or public datasets available on health platforms (e.g., Kaggle). The dataset typically includes:
-
-Heart rate readings: Time-stamped data of heart rate measurements over a period of time.
-Activity data: Information about physical activities, workouts, and sleep cycles that may correlate with changes in heart rate.
-Demographics: Age, gender, and other personal factors that might influence heart rate patterns.
